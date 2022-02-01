@@ -1,5 +1,11 @@
 # Project React with Typescript, ESLint, Babel, Webpack, Jest e RTL
 
+  ## Descriptions of this project:
+  - This project is a React project with Typescript, ESLint, Babel, Webpack, Jest e RTL.
+
+  - It's a project with a simple structure.
+  - Objective of this project is a create a clean structure for a projects react.
+
   #### Requests to install project:
     - NodeJS 14+
     - NPM ou Yarn
