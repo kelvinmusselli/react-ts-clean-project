@@ -2,6 +2,7 @@
   "name": "react-ts",
   "version": "1.0.0",
   "main": "index.js",
+  "author": "https://github.com/kelvinmusselli",
   "license": "MIT",
   "scripts": {
     "build": "webpack",
